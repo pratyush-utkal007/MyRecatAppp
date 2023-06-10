@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//MyRecatAppp/static/css/main.599d62e2.css",
+    "main.js": "//MyRecatAppp/static/js/main.9593958e.js",
+    "index.html": "//MyRecatAppp/index.html",
+    "main.599d62e2.css.map": "//MyRecatAppp/static/css/main.599d62e2.css.map",
+    "main.9593958e.js.map": "//MyRecatAppp/static/js/main.9593958e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.599d62e2.css",
+    "static/js/main.9593958e.js"
+  ]
+}
